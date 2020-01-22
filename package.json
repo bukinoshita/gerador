@@ -1,0 +1,40 @@
+{
+  "name": "gerador",
+  "version": "0.0.0",
+  "description": "Gerador de dados brasileiros",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": "bukinoshita/gerador",
+  "author": "bukinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "gerador",
+    "brasileiro",
+    "dados",
+    "brasil"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "yarn build",
+    "test": "jest --config=jest.config.json"
+  },
+  "dependencies": {
+    "gerador-estado-civil": "0.0.1",
+    "gerador-nome": "0.0.1",
+    "gerador-sexo": "0.0.1"
+  },
+  "devDependencies": {
+    "@sindresorhus/tsconfig": "0.7.0",
+    "@types/jest": "24.9.0",
+    "@types/node": "13.1.8",
+    "jest": "24.9.0",
+    "ts-jest": "24.3.0",
+    "typescript": "3.7.5"
+  }
+}
