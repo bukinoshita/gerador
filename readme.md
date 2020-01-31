@@ -56,6 +56,12 @@ Gera sexo aleatório.
 
 Returns a `string`.
 
+## Related
+
+- [gerador-nome](https://github.com/bukinoshita/gerador-nome) — Gerador brasileiro de nomes
+- [gerador-estado-civil](https://github.com/bukinoshita/gerador-estado-civil) — Gerador brasileiro de Estado Civil
+- [gerador-sexo](https://github.com/bukinoshita/gerador-sexo) — Gerador brasileiro de Sexo da pessoa
+
 ## License
 
 MIT © [Bu Kinoshita](https://bukinoshita.io)
