@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "gerador-estado-civil": "0.0.2",
-    "gerador-nome": "0.0.1",
+    "gerador-nome": "0.0.2",
     "gerador-sexo": "0.0.1"
   },
   "devDependencies": {
