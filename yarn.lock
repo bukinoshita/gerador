@@ -1283,10 +1283,10 @@ gensync@^1.0.0-beta.1:
   resolved "https://registry.yarnpkg.com/gensync/-/gensync-1.0.0-beta.1.tgz#58f4361ff987e5ff6e1e7a210827aa371eaac269"
   integrity sha512-r8EC6NO1sngH/zdD9fiRDLdcgnbayXah+mLgManTaIZJqEC1MZstmnox8KpnI2/fxQwrp5OpCOYWLp4rBl4Jcg==
 
-gerador-estado-civil@0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/gerador-estado-civil/-/gerador-estado-civil-0.0.1.tgz#adc722a1e89c9526821b8a043b7ff0277c6c2177"
-  integrity sha512-8D51xpw9yyqmhG2tlMyQwWGrJhm303/qOY+8LNCWbSDUGBjhidmw+UffRomAL6bF8Ffj9/TRIN9MEhgqNX7vJw==
+gerador-estado-civil@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/gerador-estado-civil/-/gerador-estado-civil-0.0.2.tgz#ecdeeee8b50da43f9308987d928da56b7c40ab87"
+  integrity sha512-cqhYuDkRyxbPSxPH6EhVTVwgfVaJN5VXDPlCKw/f8BGBwgb4OlJy3VMk7o8N3+VHwOvmI6jAYtWUrU8ILmYRKQ==
   dependencies:
     unique-random-array "2.0.0"
 
