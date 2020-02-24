@@ -27,7 +27,7 @@
   "dependencies": {
     "gerador-estado-civil": "0.0.2",
     "gerador-nome": "0.0.2",
-    "gerador-sexo": "0.0.1"
+    "gerador-sexo": "0.0.2"
   },
   "devDependencies": {
     "@sindresorhus/tsconfig": "0.7.0",
