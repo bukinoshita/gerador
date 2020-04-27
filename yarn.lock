@@ -1292,10 +1292,10 @@ gerador-nome@0.0.2:
   dependencies:
     unique-random-array "2.0.0"
 
-gerador-sexo@0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/gerador-sexo/-/gerador-sexo-0.0.2.tgz#f43ddac669f908e27c5a759d821de1db2fe46838"
-  integrity sha512-u+7/t9CObkFdx1Qtd7dIPA2tkkGqAfivZoZT4Udl37FRi94ZjQynO91LtcbN6C2GatpPVbgh7Qd1ymrYDrWzKQ==
+gerador-sexo@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/gerador-sexo/-/gerador-sexo-0.0.3.tgz#5a560b5301261624007032ddb86d72f0d94a4368"
+  integrity sha512-F1EdtdJnc4ONZxd1Hzi6ESqUhPY90Hh324xf9C0EC9zyx9CrNp9Zqjtw4Ic1ijtq6BcmUr11gbUSUYAOL6Y8hw==
   dependencies:
     unique-random-array "2.0.0"
 
