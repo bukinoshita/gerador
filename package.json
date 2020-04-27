@@ -25,7 +25,7 @@
     "test": "jest --config=jest.config.json"
   },
   "dependencies": {
-    "gerador-estado-civil": "0.0.2",
+    "gerador-estado-civil": "0.0.3",
     "gerador-nome": "0.0.2",
     "gerador-sexo": "0.0.2"
   },
