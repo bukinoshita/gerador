@@ -1338,10 +1338,10 @@ gerador-estado-civil@0.0.3:
   dependencies:
     unique-random-array "2.0.0"
 
-gerador-nome@0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/gerador-nome/-/gerador-nome-0.0.2.tgz#3b13320a07ee7d15378243d0c31c0ee1f756cccc"
-  integrity sha512-lmaPIHw096cCkUxergxolHMX4tpiOGQynaTWLqoQGtRJedSID8OYFXbAG66iAXpC1uXnBOc4JoYVrNXMTOnO8g==
+gerador-nome@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/gerador-nome/-/gerador-nome-0.0.3.tgz#9b7bc3f92fdd5fbb7514f0caf83d20c6208e3be6"
+  integrity sha512-/oN0hibaJuFqJCX5cd/E/FKtlRQt/wh4DLzxRxKDTI0qjRWYDayv+h4ViqV9B0zyZq8hql/pm4g0EWpwn7mC5Q==
   dependencies:
     unique-random-array "2.0.0"
 
