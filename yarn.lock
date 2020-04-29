@@ -1404,10 +1404,10 @@ gerador-nome@0.0.4:
   dependencies:
     unique-random-array "2.0.0"
 
-gerador-sexo@0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/gerador-sexo/-/gerador-sexo-0.0.4.tgz#a319c27a853030e9a7404f72b42df6e28f2773db"
-  integrity sha512-pXRnFqmCl8VyHq5RNVjeubDdzf6rh/OBcogtArgETp2K//LWLrgdRjB9EIuOy4bx8A6RPS5Xfd18aEXV01rKeA==
+gerador-sexo@0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/gerador-sexo/-/gerador-sexo-0.0.5.tgz#f975752889e12ef530eaa7607481bf6bf7ea8ca6"
+  integrity sha512-YxdIlaScSLM2y8xX9wIZQaKg+p7UTXuOLcf4nFlV+BW4fQ5+a3lMnIuurnDF5ZWyHCxFO+3KzXFJlad6fBBKFw==
   dependencies:
     unique-random-array "2.0.0"
 
