@@ -1412,10 +1412,10 @@ gerador-estado-civil@0.0.5:
   dependencies:
     unique-random-array "2.0.0"
 
-gerador-nome@0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/gerador-nome/-/gerador-nome-0.0.4.tgz#f3bd062d36b4fe036804604e3bef389ad2f21009"
-  integrity sha512-VLAksJ9fIrxSq/0h5Hh4/UXsFKEVUN04fUu7W0C2EUZvJS0c7tD0+rF472bbPkhA43l5UXYcqZQ6LG08ax+lBw==
+gerador-nome@0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/gerador-nome/-/gerador-nome-0.0.5.tgz#2cde0b7933fa802c7336e10869351c8d6d23673e"
+  integrity sha512-L6sIz/ox97DY7yEFTNpSVELXErpteJxMUjaPqHeIomAiNhwNeNFCbKqDtBl+VCGcWKiHiYJKAmlzlc+C+Sy+dQ==
   dependencies:
     unique-random-array "2.0.0"
 
