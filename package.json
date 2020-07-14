@@ -1,6 +1,6 @@
 {
   "name": "gerador",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Gerador de dados brasileiros",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
