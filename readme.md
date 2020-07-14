@@ -11,7 +11,7 @@ $ yarn add gerador
 ## Usage
 
 ```ts
-import { pessoam, veiculo } from 'gerador'
+import { pessoa, veiculo } from 'gerador'
 
 pessoa.nome()
 // ~> Karina
