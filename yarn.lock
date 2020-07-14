@@ -1431,6 +1431,13 @@ gerador-nome@0.0.5:
   dependencies:
     unique-random-array "2.0.0"
 
+gerador-placa-veiculo@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/gerador-placa-veiculo/-/gerador-placa-veiculo-0.0.2.tgz#d3bf2d6320988994b038df6c261ce8213df6dec3"
+  integrity sha512-nILveDOU5Bjrx6H98W8v6DkIA5S1aGC73HJbCp8XgY+34Wkc3HN+aIovcCfcjXaisVO9YRhysAOAYW4YmnsRXQ==
+  dependencies:
+    unique-random-array "2.0.0"
+
 gerador-sexo@0.0.5:
   version "0.0.5"
   resolved "https://registry.yarnpkg.com/gerador-sexo/-/gerador-sexo-0.0.5.tgz#f975752889e12ef530eaa7607481bf6bf7ea8ca6"

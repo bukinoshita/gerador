@@ -1,4 +1,4 @@
-import { pessoa } from '../source'
+import { pessoa, veiculo } from '../source'
 
 test('gerar estado civil', () => {
   expect(typeof pessoa.estadoCivil()).toBe('string')
@@ -12,4 +12,9 @@ test('gerar nome', () => {
 
 test('gerar sexo', () => {
   expect(typeof pessoa.sexo()).toBe('string')
+})
+
+test('gerar placa veiculo', () => {
+  expect(typeof veiculo.placa()).toBe('string')
+  expect(veiculo.placa().length).toBe(7)
 })

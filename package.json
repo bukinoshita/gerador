@@ -27,6 +27,7 @@
   "dependencies": {
     "gerador-estado-civil": "0.0.6",
     "gerador-nome": "0.0.5",
+    "gerador-placa-veiculo": "0.0.2",
     "gerador-sexo": "0.0.5"
   },
   "devDependencies": {

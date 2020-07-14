@@ -1,4 +1,4 @@
-# gerador [![Build Status](https://travis-ci.org/bukinoshita/gerador.svg?branch=master)](https://travis-ci.org/bukinoshita/gerador)
+# gerador
 
 > Gerador de dados brasileiros
 
@@ -11,13 +11,16 @@ $ yarn add gerador
 ## Usage
 
 ```ts
-import { pessoa } from 'gerador'
+import { pessoam, veiculo } from 'gerador'
 
 pessoa.nome()
 // ~> Karina
 
 pessoa.estadoCivil()
 // ~> Casado
+
+veiculo.placa()
+// -> ZSG3N02
 ```
 
 ## API
@@ -56,11 +59,22 @@ Gera sexo aleatório.
 
 Returns a `string`.
 
+### veiculo
+
+Gerador de dados para veículo.
+
+#### .placa()
+
+Gera uma placa de veículo aleatório.
+
+Returns a `string`.
+
 ## Related
 
 - [gerador-nome](https://github.com/bukinoshita/gerador-nome) — Gerador brasileiro de nomes
 - [gerador-estado-civil](https://github.com/bukinoshita/gerador-estado-civil) — Gerador brasileiro de Estado Civil
 - [gerador-sexo](https://github.com/bukinoshita/gerador-sexo) — Gerador brasileiro de Sexo da pessoa
+- [gerador-placa-veiculo](https://github.com/bukinoshita/gerador-placa-veiculo) — Gerador brasileiro de Placa de Veículo
 
 ## License
 
